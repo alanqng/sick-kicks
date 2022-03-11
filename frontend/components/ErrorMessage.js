@@ -4,7 +4,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const ErrorStyles = styled.div`
-  padding: 2rem;
+  padding: 1.5rem;
   background: white;
   margin: 2rem 0;
   border: 1px solid rgba(0, 0, 0, 0.05);
